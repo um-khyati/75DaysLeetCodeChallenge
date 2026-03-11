@@ -1,4 +1,3 @@
-# 75DaysLeetCodeChallenge
 # 🚀 75 Days LeetCode Challenge
 
 Welcome to my **#75DaysLeetCodeChallenge** repository!
