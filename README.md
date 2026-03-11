@@ -93,8 +93,10 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1200-minimum-absolute-difference) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Sorting
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1200-minimum-absolute-difference) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 <!---LeetCode Topics End-->
