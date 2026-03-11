@@ -86,3 +86,15 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ---
 
 **Happy Coding! 💻**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1200-minimum-absolute-difference) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1200-minimum-absolute-difference) |
+<!---LeetCode Topics End-->
