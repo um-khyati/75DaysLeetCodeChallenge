@@ -95,6 +95,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0001-two-sum](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -104,6 +105,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0056-merge-intervals](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -145,6 +147,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
