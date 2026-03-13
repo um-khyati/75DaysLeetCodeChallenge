@@ -96,6 +96,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0056-merge-intervals](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1200-minimum-absolute-difference) |
@@ -154,6 +155,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
