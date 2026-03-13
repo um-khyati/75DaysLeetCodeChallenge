@@ -93,6 +93,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -155,6 +156,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
