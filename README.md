@@ -62,7 +62,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 
 ---
 
-**Happy Coding! 💻**
+**💻**
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
