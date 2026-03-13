@@ -100,6 +100,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0704-binary-search](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0932-beautiful-array) |
 | [1200-minimum-absolute-difference](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -118,6 +119,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0932-beautiful-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -183,6 +185,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
+| [0932-beautiful-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0932-beautiful-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
