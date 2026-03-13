@@ -18,29 +18,6 @@ Every day I solve at least one problem covering various DSA topics and push the 
 
 ---
 
-## 📂 Repository Structure
-
-```
-75DaysLeetCodeChallenge
-│
-├── Day01
-│   └── ProblemName.java
-│
-├── Day02
-│   └── ProblemName.java
-│
-├── Day03
-│   └── ProblemName.java
-│
-...
-│
-└── Day75
-    └── ProblemName.java
-```
-
-Each folder contains the solution(s) for that specific day.
-
----
 
 ## 🧠 Topics Covered
 
