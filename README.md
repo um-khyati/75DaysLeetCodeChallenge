@@ -90,6 +90,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0147-insertion-sort-list](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -138,6 +139,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0001-two-sum](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -195,4 +197,8 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
