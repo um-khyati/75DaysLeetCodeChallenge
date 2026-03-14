@@ -201,4 +201,9 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Backtracking
+|  |
+| ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
