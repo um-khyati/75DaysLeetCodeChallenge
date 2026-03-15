@@ -174,6 +174,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0932-beautiful-array) |
+| [1622-fancy-sequence](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
@@ -195,6 +196,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+| [1622-fancy-sequence](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 ## Ordered Set
 |  |
 | ------- |
@@ -208,4 +210,8 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
