@@ -72,6 +72,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0001-two-sum](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -88,6 +89,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -139,6 +141,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -206,6 +209,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Backtracking
