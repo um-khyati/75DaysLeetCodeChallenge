@@ -185,6 +185,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Graph Theory
 |  |
 | ------- |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -262,4 +263,16 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+## Depth-First Search
+|  |
+| ------- |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 <!---LeetCode Topics End-->
