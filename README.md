@@ -213,6 +213,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | ------- |
 | [0016-3sum-closest](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0481-magical-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 ## Tree
 |  |
@@ -240,6 +241,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | ------- |
 | [0049-group-anagrams](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0481-magical-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0481-magical-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Backtracking
