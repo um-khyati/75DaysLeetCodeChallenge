@@ -263,6 +263,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Design
 |  |
