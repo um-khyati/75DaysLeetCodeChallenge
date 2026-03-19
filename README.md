@@ -247,6 +247,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | ------- |
 | [0049-group-anagrams](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0481-magical-string) |
@@ -306,4 +307,16 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
