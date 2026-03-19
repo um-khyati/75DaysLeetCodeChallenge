@@ -158,6 +158,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0147-insertion-sort-list) |
 ## Hash Table
@@ -332,4 +333,8 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2223-sum-of-scores-of-built-strings) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
