@@ -253,6 +253,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0481-magical-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0481-magical-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1392-longest-happy-prefix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Backtracking
 |  |
@@ -311,12 +312,15 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
