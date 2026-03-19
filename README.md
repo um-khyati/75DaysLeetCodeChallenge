@@ -216,6 +216,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
+| [0125-valid-palindrome](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0481-magical-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
@@ -244,6 +245,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0481-magical-string) |
