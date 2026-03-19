@@ -251,6 +251,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0125-valid-palindrome](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0481-magical-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -284,6 +285,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Queue
 |  |
@@ -338,6 +340,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
