@@ -349,4 +349,8 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
