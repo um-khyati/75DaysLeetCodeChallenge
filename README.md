@@ -97,6 +97,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +114,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [1727-largest-submatrix-with-rearrangements](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -280,6 +282,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Prefix Sum
 |  |
 | ------- |
