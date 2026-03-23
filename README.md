@@ -94,6 +94,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0912-sort-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0932-beautiful-array) |
 | [1200-minimum-absolute-difference](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1200-minimum-absolute-difference) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -289,6 +290,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Matrix
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -326,6 +328,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Dynamic Programming
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Depth-First Search
 |  |
