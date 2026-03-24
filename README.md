@@ -71,6 +71,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | ------- |
 | [0001-two-sum](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -202,6 +203,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -229,6 +231,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
