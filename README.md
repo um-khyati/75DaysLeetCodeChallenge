@@ -181,6 +181,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
@@ -229,6 +230,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0633-sum-of-square-numbers](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0932-beautiful-array) |
 | [1622-fancy-sequence](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
@@ -272,6 +274,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
