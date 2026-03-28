@@ -102,6 +102,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2573-find-the-string-with-lcp](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -214,11 +215,13 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | ------- |
 | [0011-container-with-most-water](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
@@ -293,6 +296,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2573-find-the-string-with-lcp](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 ## Backtracking
 |  |
 | ------- |
@@ -310,6 +314,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [1727-largest-submatrix-with-rearrangements](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -355,6 +360,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2573-find-the-string-with-lcp](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Depth-First Search
 |  |
