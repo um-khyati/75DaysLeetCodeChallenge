@@ -298,6 +298,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2573-find-the-string-with-lcp](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Backtracking
 |  |
 | ------- |
