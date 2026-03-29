@@ -282,6 +282,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -336,6 +337,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Queue
