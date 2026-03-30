@@ -308,6 +308,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 ## Matrix
 |  |
@@ -339,11 +340,13 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
