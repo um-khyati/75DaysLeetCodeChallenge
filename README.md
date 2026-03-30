@@ -129,6 +129,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [1727-largest-submatrix-with-rearrangements](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Divide and Conquer
 |  |
@@ -195,6 +196,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0424-longest-repeating-character-replacement](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Binary Search
 |  |
@@ -299,6 +301,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [2223-sum-of-scores-of-built-strings](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2573-find-the-string-with-lcp](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Backtracking
 |  |
 | ------- |
