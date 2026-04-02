@@ -94,6 +94,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0493-reverse-pairs](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0932-beautiful-array) |
@@ -354,6 +355,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0155-min-stack](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2751-robot-collisions](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 ## Queue
@@ -439,4 +441,8 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
