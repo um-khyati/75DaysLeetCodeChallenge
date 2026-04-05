@@ -307,6 +307,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0394-decode-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0481-magical-string) |
+| [0657-robot-return-to-origin](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1392-longest-happy-prefix) |
@@ -436,6 +437,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
