@@ -1,65 +1,73 @@
 class Robot {
 
-    int w, h;
-    int x, y;
-    int dir; 
-    int per;
+    int width;
+    int height;
+    int total;
+
+    int curSteps;
 
     public Robot(int width, int height) {
-        this.w = width;
-        this.h = height;
-        this.x = 0;
-        this.y = 0;
-        this.dir = 0;
-        this.per = 2 * (w + h) - 4;
+        this.width = width;
+        this.height = height;
+        curSteps = 0;
+
+        total = (height + width) * 2 - 4;
+        
     }
     
     public void step(int num) {
-        if (per == 0) return;
-        num %= per;
-        if (num == 0) {
-            if (x == 0 && y == 0) {
-                dir = 3; 
-            }
-            return;
-        }
-
-        while (num > 0) {
-            if (dir == 0) { 
-                int move = Math.min(num, w - 1 - x);
-                x += move;
-                num -= move;
-                if (num > 0) dir = 1;
-            } 
-            else if (dir == 1) { 
-                int move = Math.min(num, h - 1 - y);
-                y += move;
-                num -= move;
-                if (num > 0) dir = 2;
-            } 
-            else if (dir == 2) { 
-                int move = Math.min(num, x);
-                x -= move;
-                num -= move;
-                if (num > 0) dir = 3;
-            } 
-            else {
-                int move = Math.min(num, y);
-                y -= move;
-                num -= move;
-                if (num > 0) dir = 0;
-            }
-        }
+        curSteps += num;
     }
     
     public int[] getPos() {
-        return new int[]{x, y};
+        int step = curSteps % total;
+
+        if (step <= width - 1) {
+            return new int[]{step, 0};
+        }
+        step -= width - 1;
+
+        if (step <= height - 1) {
+            return new int[]{width-1, step};
+        }
+
+        step -= height - 1;
+
+        if (step <= width - 1) {
+            return new int[]{width - 1 - step, height - 1};
+        }
+
+        step -= width - 1;
+
+        return new int[]{0, height - 1 - step};
     }
     
     public String getDir() {
-        if (dir == 0) return "East";
-        if (dir == 1) return "North";
-        if (dir == 2) return "West";
+        if (curSteps == 0) {
+            return "East";
+        }
+
+        int step = curSteps % total;
+
+        if (step == 0) {
+            return "South";
+        }
+
+        if (step <= width - 1) {
+            return "East";
+        }
+        step -= width - 1;
+
+        if (step <= height - 1) {
+           return "North";
+        }
+
+        step -= height - 1;
+
+        if (step <= width - 1) {
+           return "West";
+        }
+
         return "South";
     }
 }
