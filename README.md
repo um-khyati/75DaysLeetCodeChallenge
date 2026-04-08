@@ -191,6 +191,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0021-merge-two-sorted-lists](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0147-insertion-sort-list) |
+| [0206-reverse-linked-list](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -437,6 +438,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
