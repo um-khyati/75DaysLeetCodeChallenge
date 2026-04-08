@@ -120,6 +120,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [3548-equal-sum-grid-partition-ii](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
@@ -152,6 +153,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0493-reverse-pairs](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0932-beautiful-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -451,6 +453,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [2075-decode-the-slanted-ciphertext](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Database
 |  |
 | ------- |
