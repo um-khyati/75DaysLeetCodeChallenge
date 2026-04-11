@@ -197,6 +197,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0141-linked-list-cycle](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -282,6 +283,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0283-move-zeroes](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0481-magical-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Tree
 |  |
