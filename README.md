@@ -118,6 +118,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -222,6 +223,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0874-walking-robot-simulation](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3488-closest-equal-element-queries](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -241,6 +243,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0852-peak-index-in-a-mountain-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
