@@ -297,11 +297,13 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 ## Binary Indexed Tree
@@ -429,11 +431,13 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Rolling Hash
