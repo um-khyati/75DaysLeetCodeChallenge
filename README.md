@@ -199,6 +199,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
+| [2833-furthest-point-from-origin](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -357,6 +358,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [2223-sum-of-scores-of-built-strings](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
