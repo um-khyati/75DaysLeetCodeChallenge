@@ -1,41 +1,64 @@
 class Solution {
-    static class Pair{
-        int row;
-        int col;
-        int prow;
-        int pcol;
-        Pair(int row,int col,int prow,int pcol){
-            this.row=row;
-            this.col=col;
-            this.prow=prow;
-            this.pcol=pcol;
+    boolean visited[][];
+    boolean dfs(int r,int c,char grid[][],char curr,int par_r,int par_c)
+    {
+        visited[r][c]=true;
+        int m=grid.length;
+        int n=grid[0].length;
+        if(r<m-1&&grid[r+1][c]==curr)
+        {
+            if(!visited[r+1][c])
+            {
+                if(dfs(r+1,c,grid,curr,r,c))
+                return true;
+            }
+            else if(r+1!=par_r&&c!=par_c)
+            return true;
         }
+         if(c<n-1&&grid[r][c+1]==curr)
+        {
+            if(!visited[r][c+1])
+            {
+                if(dfs(r,c+1,grid,curr,r,c))
+                return true;
+            }
+            else if(r!=par_r&&c+1!=par_c)
+            return true;
+        }
+         if(r>=1&&grid[r-1][c]==curr)
+        {
+            if(!visited[r-1][c])
+            {
+                if(dfs(r-1,c,grid,curr,r,c))
+                return true;
+            }
+            else if(r-1!=par_r&&c!=par_c)
+            return true;
+        }
+         if(c>=1&&grid[r][c-1]==curr)
+        {
+            if(!visited[r][c-1])
+            {
+                if(dfs(r,c-1,grid,curr,r,c))
+                return true;
+            }
+            else if(r!=par_r&&c-1!=par_c)
+            return true;
+        }
+        return false;
     }
     public boolean containsCycle(char[][] grid) {
-        int n=grid.length,m=grid[0].length;
-        boolean[][]visited=new boolean[n][m];
-        int[]allowedRow={-1,0,1,0};
-        int[]allowedCol={0,1,0,-1};
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(!visited[i][j]){
-                    Queue<Pair>queue=new LinkedList<>();
-                    queue.offer(new Pair(i,j,-1,-1));
-                    visited[i][j]=true;
-                    while(!queue.isEmpty()){
-                        Pair cur=queue.poll();
-                        for(int index=0;index<4;index++){
-                            int newRow=cur.row+allowedRow[index];
-                            int newCol=cur.col+allowedCol[index];
-                            if(newRow>=0&&newRow<n&&newCol>=0&&newCol<m&&
-                            grid[newRow][newCol]==grid[cur.row][cur.col]){
-                                if(!visited[newRow][newCol]){
-                                    visited[newRow][newCol]=true;
-                                    queue.offer(new Pair(newRow,newCol,cur.row,cur.col));
-                                }else if(newRow!=cur.prow&&newCol!=cur.pcol)return true;
-                            }
-                        }
-                    }
+        int m=grid.length;
+        int n=grid[0].length;
+        visited=new boolean[m][n];
+        for(int i=0;i<m;i++)
+        {
+            for(int j=0;j<n;j++)
+            {
+                if(!visited[i][j])
+                {
+                    if(dfs(i,j,grid,grid[i][j],-1,-1))
+                    return true;
                 }
             }
         }
