@@ -93,6 +93,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0239-sliding-window-maximum](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -293,6 +294,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | ------- |
 | [0012-integer-to-roman](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0396-rotate-function](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0633-sum-of-square-numbers](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0932-beautiful-array) |
 | [1622-fancy-sequence](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
@@ -456,6 +458,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
