@@ -103,6 +103,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0874-walking-robot-simulation](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0932-beautiful-array) |
+| [0994-rotting-oranges](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1200-minimum-absolute-difference) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -397,6 +398,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -486,6 +488,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
