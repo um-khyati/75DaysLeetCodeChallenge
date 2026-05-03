@@ -366,6 +366,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0424-longest-repeating-character-replacement](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0481-magical-string) |
 | [0657-robot-return-to-origin](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -502,6 +503,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
