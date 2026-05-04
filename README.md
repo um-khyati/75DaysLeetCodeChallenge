@@ -78,6 +78,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0033-search-in-rotated-sorted-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
@@ -297,6 +298,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0396-rotate-function](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0633-sum-of-square-numbers](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
@@ -400,6 +402,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
