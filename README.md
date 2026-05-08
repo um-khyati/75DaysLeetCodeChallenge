@@ -106,6 +106,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0874-walking-robot-simulation](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0932-beautiful-array) |
+| [0952-largest-component-size-by-common-factor](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0952-largest-component-size-by-common-factor) |
 | [0994-rotting-oranges](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1200-minimum-absolute-difference) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -244,6 +245,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0424-longest-repeating-character-replacement](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0874-walking-robot-simulation](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
+| [0952-largest-component-size-by-common-factor](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0952-largest-component-size-by-common-factor) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3488-closest-equal-element-queries) |
@@ -287,6 +289,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0952-largest-component-size-by-common-factor](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0952-largest-component-size-by-common-factor) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -311,6 +314,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0633-sum-of-square-numbers](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
 | [0932-beautiful-array](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0932-beautiful-array) |
+| [0952-largest-component-size-by-common-factor](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0952-largest-component-size-by-common-factor) |
 | [1622-fancy-sequence](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -585,5 +589,6 @@ If you find this repository helpful or interesting, feel free to **star the repo
 ## Number Theory
 |  |
 | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0952-largest-component-size-by-common-factor) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
