@@ -1,56 +1,60 @@
 class Solution {
-    int[] parent;
-
     public boolean[] friendRequests(int n, int[][] restrictions, int[][] requests) {
-        parent = new int[n];
-
+        
+        int[] parent = new int[n];
+        int[] size = new int[n]; 
         for (int i = 0; i < n; i++) {
             parent[i] = i;
+            size[i] = 1;
+        }
+        List<Set<Integer>> forbidden = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            forbidden.add(new HashSet<>());
+        }
+        for (int[] r : restrictions) {
+            int a = r[0];
+            int b = r[1];
+            forbidden.get(a).add(b);
+            forbidden.get(b).add(a);
         }
 
-        boolean[] result = new boolean[requests.length];
+        boolean[] res = new boolean[requests.length];
 
         for (int i = 0; i < requests.length; i++) {
-            int u = requests[i][0];
-            int v = requests[i][1];
+            int a = requests[i][0];
+            int b = requests[i][1];
 
-            int pu = find(u);
-            int pv = find(v);
+            int rootA = find(parent, a);
+            int rootB = find(parent, b);
 
-            boolean possible = true;
-
-            for (int[] r : restrictions) {
-                int x = find(r[0]);
-                int y = find(r[1]);
-
-                if ((x == pu && y == pv) || (x == pv && y == pu)) {
-                    possible = false;
-                    break;
-                }
+            if (rootA == rootB) {
+                res[i] = true;
+                continue;
             }
-
-            if (possible) {
-                union(pu, pv);
-                result[i] = true;
+            if (forbidden.get(rootA).contains(rootB) ||
+                forbidden.get(rootB).contains(rootA)) {
+                res[i] = false;
+                continue;
             }
+            if (size[rootA] < size[rootB]) {
+                int tmp = rootA;
+                rootA = rootB;
+                rootB = tmp;
+            }
+            parent[rootB] = rootA;
+            size[rootA] += size[rootB];
+            for (int x : forbidden.get(rootB)) {
+                forbidden.get(rootA).add(x);
+                forbidden.get(x).add(rootA);
+            }
+            res[i] = true;
         }
-
-        return result;
+        return res;
     }
-
-    int find(int x) {
+    private int find(int[] parent, int x) {
         if (parent[x] != x) {
-            parent[x] = find(parent[x]);
+            parent[x] = find(parent, parent[x]);
         }
         return parent[x];
-    }
-
-    void union(int a, int b) {
-        int pa = find(a);
-        int pb = find(b);
-
-        if (pa != pb) {
-            parent[pa] = pb;
-        }
     }
 }
