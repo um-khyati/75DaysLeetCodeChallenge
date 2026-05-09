@@ -119,6 +119,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1914-cyclically-rotating-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
@@ -427,6 +428,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [1727-largest-submatrix-with-rearrangements](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
@@ -556,6 +558,7 @@ If you find this repository helpful or interesting, feel free to **star the repo
 | [0657-robot-return-to-origin](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1914-cyclically-rotating-a-grid](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/um-khyati/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
